@@ -20,7 +20,12 @@ padding: 10px;
     font-weight: 500;
 }
 
-.tag, .location {
+.tag {
+font-size: 25px;
+font-weight: 500;
+color: gray;
+}
+.location {
 font-size: 25px;
 font-weight: 500;
 color: gray;
