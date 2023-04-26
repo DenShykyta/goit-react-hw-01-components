@@ -1,8 +1,8 @@
 .friendList {
-width: 400px;
-margin: 0 auto;
-list-style: none;
-padding: 0;
+    width: 400px;
+    margin: 0 auto;
+    list-style: none;
+    padding: 0;
 }
 
 .friendList li {
@@ -15,26 +15,26 @@ padding: 0;
     margin-bottom: 10px;
     padding-left: 10px;
 }
+
 .statusIn {
-display: block;
+    display: block;
     width: 25px;
     height: 25px;
     border-radius: 50%;
     background-color: green;
-    
-  
-    
+
+
+
 }
-.statusOf{
-display: block;
+
+.statusOf {
+    display: block;
     width: 25px;
     height: 25px;
     border-radius: 50%;
     background-color: red;
 }
-.avatar {
 
-}
-.name {
+.avatar {}
 
-}
+.name {}

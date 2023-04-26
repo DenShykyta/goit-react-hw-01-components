@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import css from './FriendList.module.css';
+import css from './friendStyle.module.css';
 
 export default function FriendList({friends}) {
   return (<ul className={css.friendList}>
