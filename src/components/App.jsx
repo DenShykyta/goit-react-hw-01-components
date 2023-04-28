@@ -1,13 +1,13 @@
-import Profile from './profile/Profile';
+import Profile from './profile'; /* з реекспортом*/
 import user from '../data/user.json';
 
-import Statistics from './statistics/Statistics';
+import Statistics from './statistics'; /* з реекспортом*/
 import data from '../data/data.json';
 
-import FriendList from './FriendLis/FriendList';
+import FriendList from './FriendLis/FriendList'; /* БЕЗ реекспорта*/
 import friends from '../data/friends.json'
 
-import TransactionHistory from './transactionHistory/TransactionHistory';
+import TransactionHistory from './transactionHistory/TransactionHistory'; /* БЕЗ реекспорта*/
 import transactions from '../data/transactions.json'
 
 export const App = () => {
